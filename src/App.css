@@ -1,4 +1,3 @@
-/* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 768px) {
   .container {
     border: solid 1px #000000;
